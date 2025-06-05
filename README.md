@@ -60,5 +60,3 @@ where \(u(r) = r R(r)\) is the scaled radial wavefunction, \(l\) is the orbital 
 This project is for academic and educational use.
 
 ---
-
-پ
