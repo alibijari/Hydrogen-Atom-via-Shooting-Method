@@ -20,9 +20,9 @@
 
 The script solves the **radial time-independent Schrödinger equation**:
 
-\[
+$$
 \left[ -\frac{\hbar^2}{2m}\frac{d^2}{dr^2} + \frac{l(l+1)\hbar^2}{2mr^2} - \frac{e^2}{4\pi\epsilon_0 r} \right] u(r) = E u(r)
-\]
+$$
 
 - \( u(r) = r R(r) \) is the reduced radial wavefunction.
 - \( l \) is the orbital angular momentum quantum number.
