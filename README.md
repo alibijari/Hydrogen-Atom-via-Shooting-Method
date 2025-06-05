@@ -51,6 +51,15 @@ $$
 
 ---
 
+## 📁 File Structure
+
+| File Name                | Description                                             |
+|--------------------------|--------------------------------------------------------|
+| `Shooting method.py`     | Python code for numerically solving the radial Schrödinger equation (shooting method + RK4), with full comments and output |
+| `Shooting method.pdf`    | Scientific Persian report: theory, equations, physical background, numerical algorithm, sample runs |
+
+---
+
 ## ⚡️ Usage
 
 1. **Clone or download this repo**.
